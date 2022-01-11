@@ -208,6 +208,7 @@ GEM
 
 PLATFORMS
   x85_64-linux
+  x86_62-linux
   x86_64-linux
 
 DEPENDENCIES
